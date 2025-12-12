@@ -26,7 +26,11 @@ IMAGES MOODBOARD
 
 3. Les taches principales.
 - Les quatres phases de production et leur liste de taches.
+
 **Préproduction :** Faire la planification, la préparation et la conception détaillée du projet. Dans ce cas, la narration et conception du film, la recherche et la technologie, la direction artistique et le production planning.
+
 **Production :** Faire la réalisation, la création et la captation. Dans ce cas, la captation vidéo, l'audio, ajuster et appliquer les techniques de tournage et la supervision technologique.
+
 **Postproduction :** Faire la finalisation, les retouches, le montage, l'optimisationf et la livraison. Dans ce cas, le montage vidéo, les effets visuels, la programmation, le système de décision, le mixage/mastering de l'audio et les tests avec des utilisateurs.
+
 **Opération :** Faire la surveillance, les mise-a-jour et la modération. Dans ce cas, faire la promotion, maintenance technique et faire des évolutions futures.
