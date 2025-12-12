@@ -13,31 +13,31 @@
 
 ### Présentation du concept
 
-- Les cinq éléments importants.
+Les cinq éléments importants.
 
-Un film qui s'adapte en analysant les émotions faciales et vocales.
+- Un film qui s'adapte en analysant les émotions faciales et vocales.
 
-Plusieurs scènes qui changent entre chapitres basées sur les réactions.
+- Plusieurs scènes qui changent entre chapitres basées sur les réactions.
 
-Un visionnage quasi unique pour tout le monde.
+- Un visionnage quasi unique pour tout le monde.
 
-Un système de classification d'émotions.
+- Un système de classification d'émotions.
 
-Un visionnage qui donne à l'utilisateur assez de contrôle sur ce qu'il veut regarder.
+- Un visionnage qui donne à l'utilisateur assez de contrôle sur ce qu'il veut regarder.
 
-- Les choix technologiques seront :
+Les choix technologiques seront :
 
-La reconnaissance faciale.
+- La reconnaissance faciale.
 
-L'analyse d'audio.
+- L'analyse d'audio.
 
-Un logiciel qui peut changer de scène en temps réel.
+- Un logiciel qui peut changer de scène en temps réel.
 
-Une paire de lunettes avec des caméras et des microphones.
+- Une paire de lunettes avec des caméras et des microphones.
 
-- En quoi le concept répond aux attentes du public cible ?
+En quoi le concept répond aux attentes du public cible ?
 
-Pour ceux qui sont des amateurs de cinéma, il y aura une immersion totale et une implication émotionnelle leur donnant une expérience jamais vécue. Pour ceux qui sont passionnés par la technologie, ils vont voir une nouvelle façon d'utiliser le suivi du visage et de l'impliquer dans des projets.
+**Pour ceux qui sont des amateurs de cinéma, il y aura une immersion totale et une implication émotionnelle leur donnant une expérience jamais vécue. Pour ceux qui sont passionnés par la technologie, ils vont voir une nouvelle façon d'utiliser le suivi du visage et de l'impliquer dans des projets.**
 
 ### Les tâches principales.
 
