@@ -55,5 +55,4 @@ En quoi le concept répond aux attentes du public cible ?
 
 - La raison pour laquelle il pourrait attirer des investisseurs Kickstarter est parce que, en investissant dedans, il y aurait plus de films qui seraient produits.
 
----IMAGE PLACEHOLER---
-![Demo](https://i.ibb.co/fdRSpd1V/Demo.jpg)
+
